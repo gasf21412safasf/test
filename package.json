@@ -1,0 +1,11 @@
+{
+  "name": "crystalxrat-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build:ts": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
